@@ -1,7 +1,10 @@
-# Strategic-Business-Analyst-Portfolio
-Supriya Khaneja- Strategic Business Analyst Portfolio
+Marketing Research | Consumer Insights | Business Analytics | Data-Driven Strategy
+
+Supriya Khaneja- Portfolio
 
 Hello! I'm Supriya, and welcome to my portfolio repository.
+
+I am a marketing research and business analytics professional with 10+ years of experience in consumer insights, quantitative and qualitative research, and strategic analysis. 
 
 This repository highlights my expertise in the complete data lifecycle, from initial investigation and detailed research to rigorous data cleaning and visualization.
 
