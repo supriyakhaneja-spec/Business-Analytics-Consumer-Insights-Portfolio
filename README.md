@@ -14,5 +14,5 @@ Key Technical Skills Demonstrated Here:
 * Power BI
 * PowerPoint
 
-My foundational knowledge comes from a strong academic background in Finance (BCom, MCom, PhD) with a specialization in Accounting, complemented by years of hands-on research experience.
+My foundational knowledge comes from a strong academic background in Business (BCom, MBA, PhD) with a specialization in Marketing  research and business analytics complemented by years of hands-on research experience.
 
